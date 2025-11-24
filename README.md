@@ -6,7 +6,7 @@
 
 
 ---
-<h2 align="center">Current Work 🚀</h2>
+<h1 align="center">Current Work 🚀</h1>
 
 <table align="center">
   <tr>
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center"💬> Expertise 🛠️</h2>
+<h1 align="center"💬> Expertise 🛠️</h1>
 
 <p align="center">
   <span style="display:inline-block; background:linear-gradient(90deg,#ff6a00,#ee0979); color:white; padding:10px 15px; margin:5px; border-radius:10px; font-weight:bold;">💻 PHP Backend</span>
@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">📫 Contact Me </h2>
+<h1 align="center">📫 Contact Me </h1>
 
 <p align="center">
   <a href="mailto:khaliduzair325@gmail.com">
@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="center">💻 Languages & Tools</h2>
+<h1 align="center">💻 Languages & Tools</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
