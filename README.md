@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Uzair;Full+Stack+Developer;Core+PHP+|+jQuery+|+AJAX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=008000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Uzair;Full+Stack+Developer;Core+PHP+|+jQuery+|+AJAX)](https://git.io/typing-svg)
 
 
 
