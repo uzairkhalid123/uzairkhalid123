@@ -4,24 +4,11 @@
 
 
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=uzairkhalid&theme=flat&no-frame=true&no-bg=true&margin-w=20&row=1" 
-    alt="GitHub Achievements" 
-  />
-</p>
-
-
-
-
-
 
 ---
-## 🔭 **Current Work** 🚀
+<h2 align="center">Current Work 🚀</h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" /><br>
@@ -50,47 +37,32 @@
 
 ---
 
-## 🤝 **Collaboration Interests** 🌟
+## 💬 **Expertise** 🛠️
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="https://img.icons8.com/fluency/48/000000/design.png" width="48"/><br>
-      <b>UI/UX Enhancement</b><br>
-      Improving user interfaces & experiences
-    </td>
-    <td align="center" width="180">
-      <img src="https://img.icons8.com/fluency/48/000000/speed.png" width="48"/><br>
-      <b>Web Performance</b><br>
-      Optimizing load speed & responsiveness
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/architecture/architecture-original.svg" width="48"/><br>
-      <b>Scalable Architecture</b><br>
-      Designing projects for growth & stability
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <span style="color:#FF6A00;">💻 PHP Backend:</span> Building robust server-side systems <br>
+  <span style="color:#1E90FF;">🗄️ Database Management:</span> Designing & optimizing schemas <br>
+  <span style="color:#32CD32;">⚡ Frontend Interactivity:</span> jQuery, AJAX & dynamic interfaces <br>
+  <span style="color:#FF69B4;">🔗 API & Logic Building:</span> Integrating & managing application logic
+</p>
 
 
 ---
 
-## 🌐 Portfolio  
-https://malikuzair-portfolio-website.netlify.app/
+## 📫 **Contact Me**
 
----
+<p align="center">
+  <a href="mailto:khaliduzair325@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/uzairkhalid123" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://malikuzair-portfolio-website.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6A00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-## 💬 Expertise
-- PHP backend systems  
-- Database management  
-- Frontend interactivity  
-- API and logic building  
-
----
-
-## 📫 Contact
-- Email: khaliduzair325@gmail.com  
-- LinkedIn: linkedin.com/in/uzairkhalid123
 
 
 ---
@@ -108,14 +80,3 @@ https://malikuzair-portfolio-website.netlify.app/
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairkhalid&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairkhalid&theme=radical" />
-</p>
-
----
-
-### ⚡ **Fun Fact**
-> **“Code is like humor. When you have to explain it, it’s bad.” 😎**
