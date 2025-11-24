@@ -4,24 +4,74 @@
 
 
 
+### 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzairkhalid&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=uzairkhalid&theme=flat&no-frame=true&no-bg=true&margin-w=20&row=1" 
+    alt="GitHub Achievements" 
+  />
 </p>
 
 
+
+
+
+
 ---
-## 🔭 Current Work
-- Core PHP backend modules  
-- MySQL schema design & optimization  
-- jQuery + AJAX for interactive interfaces  
-- Learning modern JavaScript frameworks  
+## 🔭 **Current Work** 🚀
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" /><br>
+      <b>Core PHP</b><br>
+      Building robust backend modules
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" /><br>
+      <b>MySQL</b><br>
+      Designing & optimizing database schemas
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="48" /><br>
+      <b>jQuery + AJAX</b><br>
+      Creating interactive web interfaces
+    </td>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" /><br>
+      <b>JS Frameworks</b><br>
+      Learning modern JavaScript frameworks
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
-## 🤝 Collaboration Interests
-- UI/UX enhancement  
-- Web performance tuning  
-- Scalable project architecture  
+## 🤝 **Collaboration Interests** 🌟
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://img.icons8.com/fluency/48/000000/design.png" width="48"/><br>
+      <b>UI/UX Enhancement</b><br>
+      Improving user interfaces & experiences
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.icons8.com/fluency/48/000000/speed.png" width="48"/><br>
+      <b>Web Performance</b><br>
+      Optimizing load speed & responsiveness
+    </td>
+    <td align="center" width="180">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/architecture/architecture-original.svg" width="48"/><br>
+      <b>Scalable Architecture</b><br>
+      Designing projects for growth & stability
+    </td>
+  </tr>
+</table>
+
 
 ---
 
