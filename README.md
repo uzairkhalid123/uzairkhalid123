@@ -39,11 +39,11 @@
 
 ## 💬 **Expertise** 🛠️
 
-<p align="left">
-  <span style="color:#FF6A00;">💻 PHP Backend:</span> Building robust server-side systems <br>
-  <span style="color:#1E90FF;">🗄️ Database Management:</span> Designing & optimizing schemas <br>
-  <span style="color:#32CD32;">⚡ Frontend Interactivity:</span> jQuery, AJAX & dynamic interfaces <br>
-  <span style="color:#FF69B4;">🔗 API & Logic Building:</span> Integrating & managing application logic
+<p align="center">
+  <span style="display:inline-block; background:linear-gradient(90deg,#ff6a00,#ee0979); color:white; padding:10px 15px; margin:5px; border-radius:10px; font-weight:bold;">💻 PHP Backend</span>
+  <span style="display:inline-block; background:linear-gradient(90deg,#1e90ff,#00d4ff); color:white; padding:10px 15px; margin:5px; border-radius:10px; font-weight:bold;">🗄️ Database Management</span>
+  <span style="display:inline-block; background:linear-gradient(90deg,#32cd32,#00ff8c); color:white; padding:10px 15px; margin:5px; border-radius:10px; font-weight:bold;">⚡ Frontend Interactivity</span>
+  <span style="display:inline-block; background:linear-gradient(90deg,#ff69b4,#ff1493); color:white; padding:10px 15px; margin:5px; border-radius:10px; font-weight:bold;">🔗 API & Logic Building</span>
 </p>
 
 
