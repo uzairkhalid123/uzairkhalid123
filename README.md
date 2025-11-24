@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Uzair</h1>
-<h3 align="center">A passionate Full Stack Developer | Core PHP, jQuery & AJAX</h3>
+<p align="center">
+  <img src="https://c.tenor.com/Tp0ZJJkEAZ8AAAAi/animated-background-name.gif" width="600" alt="Uzair Khalid" />
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Uzair
+</h1>
+
+<h3 align="center">Full Stack Developer | Core PHP, jQuery, AJAX</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uzairkhalid&label=Profile%20Views&color=0e75b6&style=flat" alt="uzairkhalid" />
