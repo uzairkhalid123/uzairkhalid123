@@ -5,44 +5,43 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzairkhalid&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uzairkhalid&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </p>
+
+
+---
+## 🔭 Current Work
+- Core PHP backend modules  
+- MySQL schema design & optimization  
+- jQuery + AJAX for interactive interfaces  
+- Learning modern JavaScript frameworks  
 
 ---
 
-### 🔭 **Currently Working On**
-- 🐘 **Core PHP** & **MySQL** Database Architecture
-- ⚡ **jQuery** & **AJAX** for dynamic content
-- 🌟 Learning modern JS frameworks (transitioning from jQuery)
-
-### 🤝 **Looking For Help With**
-- UI/UX design ideas for scalable web apps
-- Performance optimization in PHP
-
-### 👨‍💻 **Portfolio**
-> 🚀 [Check Out My Projects Here](https://malikuzair-portfolio-website.netlify.app/)
-
-### 💬 **Ask Me About**
-- Backend Logic (PHP), Database Management (MySQL), Frontend Interactivity (JS/jQuery)
-
-### 📫 **Reach Me At**
-- **Email:** [khaliduzair325@gmail.com](mailto:khaliduzair325@gmail.com)
-- **LinkedIn:** [linkedin.com/in/uzairkhalid123](https://www.linkedin.com/in/uzairkhalid123)
+## 🤝 Collaboration Interests
+- UI/UX enhancement  
+- Web performance tuning  
+- Scalable project architecture  
 
 ---
 
-### 🌐 **Connect With Me**
-<p align="center">
-  <a href="https://linkedin.com/in/uzairkhalid123" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ohh_zair" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/uzairkhalid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🌐 Portfolio  
+https://malikuzair-portfolio-website.netlify.app/
+
+---
+
+## 💬 Expertise
+- PHP backend systems  
+- Database management  
+- Frontend interactivity  
+- API and logic building  
+
+---
+
+## 📫 Contact
+- Email: khaliduzair325@gmail.com  
+- LinkedIn: linkedin.com/in/uzairkhalid123
+
 
 ---
 
